@@ -6,8 +6,7 @@ To ensure the backend server runs smoothly, execute the command `npm start`. Her
 
 2. **Trip Controller**: Manages incoming requests related to trips, such as adding, updating, and deleting trips and activities.
 
-3. **Trip Service**: Contains the business logic for handling trip-related operations, including CRUD operations for trips and activities.
-
+3. **Trip Service**: Contains the business logic for handling trip-related operations.
 4. **Trip Routes**: Defines the routes for accessing trip-related endpoints.
 
 5. **Server Initialization**: Initializes and configures the backend server.
